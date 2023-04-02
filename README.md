@@ -1,13 +1,13 @@
 Instructions to install and run
 
-We downloaded XAMPP from https://www.apachefriends.org/
+I downloaded XAMPP from https://www.apachefriends.org/
 The version with PHP 8.2.0 (Latest)
-Our database name is db2
-We upload the DB2-tables.sql through phpmyadmin to insert tables and dummy data
-We then drop all these files to the htdocs folder
+Database name is db2
+Upload the DB2-tables.sql through phpmyadmin to insert tables and dummy data
+Then drop all these files to the htdocs folder
 localhost in the url should take you to the login page
 
-SOME OF THE DEFAULT INSERTED ROWS MAY BREAK RULES WE HAVE MADE
+SOME OF THE DEFAULT INSERTED ROWS MAY BREAK RULES I HAVE MADE
 
 We have 11 default logins.
 
